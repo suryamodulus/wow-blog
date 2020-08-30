@@ -1,7 +1,7 @@
 {
   "name": "wow-blog",
   "private": true,
-  "description": "Wow-Blog is a Dynamic & Secure Blog without any Authentication, Server or Database",
+  "description": "Wow-Blog is a Ultra-Fast, Dynamic & Secure Blogging Platform without any Authentication, Server or Database - using Webrtc and Render.com",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
